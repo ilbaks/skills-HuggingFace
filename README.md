@@ -1,1 +1,4 @@
 - [`NB_050124T0739_fine_tuning_with_trainer_api`](https://github.com/ilbaks/skills-HuggingFace/blob/main/NB_050124T0739_fine_tuning_with_trainer_api.ipynb) -  Fine-tuning model "bert-base-uncased" on  dataset  "glue mrpc" using trainer API in Hugging Face
+- Fine-tuning full training with accelerator: 
+  - [`NB_050124T1057_fine_tuning_full_training_with_accelerator`](https://github.com/ilbaks/skills-HuggingFace/blob/main/NB_050124T0739_fine_tuning_with_trainer_api.ipynb)
+  - on  dataset  "glue mrpc" using trainer API in Hugging Face
