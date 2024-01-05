@@ -1,0 +1,1 @@
+- `NB_050124T0739_fine_tuning_with_trainer_api` -  Fine-tuning model "bert-base-uncased" on  dataset  "glue mrpc" using trainer API in hugging face
